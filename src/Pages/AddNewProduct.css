@@ -1,0 +1,81 @@
+.addNewProduct{
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
+
+.addNewProduct h1{
+    color: #0f79af;
+    margin: 5px 20px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 42px;
+    letter-spacing: 0.09cm;
+}
+
+#labelTag{
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+#requiredSpan{
+    font-size: 19px;
+    color: red;
+}
+
+.addProductForm{
+    width: 50%;
+}
+
+.inputCont{
+    padding: 0 5px;
+    margin-top: 5px;
+    border: 1px solid transparent;
+}
+
+.inputCont:hover{
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-shadow: 1px 0px 1px 0px black;
+    background-color: rgb(231, 231, 231);
+}
+
+.addProductForm input{
+    height: 20px;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    outline: none;
+    font-size: medium;
+    margin-bottom: 5px;
+    background-color: transparent;
+}
+
+.addProductForm input::placeholder{
+    padding-left: 10px;
+}
+
+.addProductForm input:focus{
+    border-bottom: 1px solid purple;
+    transition: 1s;
+}
+
+.buttonTag{
+    text-align: center;
+}
+
+.addProductForm button{
+    margin-top: 10px;
+    border: none;
+    background-color: rgb(20, 41, 68);
+    color: white;
+    padding: 5px 5px;
+}
+
+.addProductForm button:focus
+{
+    color: rgb(20, 41, 68);
+    background-color: white;
+    border: 1px solid rgb(20, 41, 68);
+}

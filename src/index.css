@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Advent+Pro:wght@200&family=Alfa+Slab+One&family=BIZ+UDGothic:wght@700&family=Baloo+Da+2&family=Dosis:wght@200&family=Lobster&family=Noto+Serif&family=Nuosu+SIL&family=Play&family=Space+Mono&family=Spline+Sans+Mono:wght@300;400&family=Tapestry&family=Urbanist:wght@100&display=swap');@import url('https://fonts.googleapis.com/css2?family=Acme&family=Advent+Pro:wght@200&family=Alfa+Slab+One&family=BIZ+UDGothic:wght@700&family=Baloo+Da+2&family=Dosis:wght@200&family=Lobster&family=Noto+Serif&family=Nuosu+SIL&family=Play&family=Space+Mono&family=Spline+Sans+Mono:wght@300;400&family=Tapestry&family=Urbanist:wght@100&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Acme', sans-serif;
+}
+
+.pending
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  color: white;
+}
+
+.loading 
+{
+  height: 100px;
+  width: 100px;
+  border: solid 10px;
+  border-bottom-color: #0f79af;
+  border-top-color: #0f79af;
+  border-radius: 50%;
+  border-left: transparent;
+  border-right: transparent;
+  animation: loadingKey 1s infinite;
+}
+
+@keyframes loadingKey {
+  to{
+    transform: rotate(1turn);
+  }
+}

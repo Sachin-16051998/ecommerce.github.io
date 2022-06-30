@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "prodName": "Men Mint Green Round Neck Drop-Shoulder Sleeves Cotton Loose T-shirt",
+      "prodImage": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/d68f0bc6-8408-4841-b12b-9f3d632cfe8d1640669480648-Difference-of-Opinion-Men-Tshirts-4021640669480120-5.jpg",
+      "prize": "5000",
+      "id": 3
+    },
+    {
+      "prodName": "Men Navy Blue Typography Print Drop-Shoulder Sleeves Pure Cotton",
+      "prodImage": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17149970/2022/3/9/398d9665-8795-42e9-8e92-c02c427dd3031646828885322-Difference-of-Opinion-Men-Navy-Blue-Typography-Print-Drop-Sh-1.jpg",
+      "prize": "2000",
+      "id": 4
+    },
+    {
+      "prodName": "Men Burgundy Round Neck Drop-Shoulder Sleeves Cotton Loose T-shirt",
+      "prodImage": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407466/2021/12/28/a935305e-f0c1-4753-8f32-36d9b7da663f1640668574575-Difference-of-Opinion-Men-Tshirts-5301640668574010-1.jpg",
+      "prize": "2010",
+      "id": 5
+    },
+    {
+      "prodName": "Men Rust Graphic Printed Pure Cotton Casual T-shirt",
+      "prodImage": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16618716/2022/2/15/48953727-e2c5-40cb-8228-4d3967dc6ba71644914524146-Kook-N-Keech-Emoji-Men-Tshirts-6751644914523503-1.jpg",
+      "prize": "1200",
+      "id": 6
+    }
+  ]
+}

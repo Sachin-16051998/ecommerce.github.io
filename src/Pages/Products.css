@@ -1,0 +1,15 @@
+.products{
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
+
+.products h1{
+    color: #0f79af;
+    margin: 5px 20px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 42px;
+    letter-spacing: 0.09cm;
+}

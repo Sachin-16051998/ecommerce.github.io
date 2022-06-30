@@ -1,0 +1,39 @@
+nav{
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+    background-color: rgb(20, 41, 68);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    color: white;
+    width: 75%;
+    margin: auto;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+nav h1{
+    font-size: 32px;
+}
+
+.links a{
+    margin: 0 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links a:link {
+    color: white;
+}
+.links a:visited {
+    color: yellow;
+}
+.links a:hover {
+    color: rgb(149, 149, 236);
+}
+.links a:active {
+    color: green;
+}
